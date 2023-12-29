@@ -6,9 +6,7 @@
 
 ## 📫 How to reach me:
 
-- Email: ilhamkusmayadi65@gmail.com
-- Facebook: [ilham.kusmayadi.5](https://www.facebook.com/ilham.kusmayadi.5)
-- Instagram: [\_ollham](https://www.instagram.com/_ollham/)
+Email: ilhamkusmayadi65@gmail.com ![Email Icon](https://img.shields.io/badge/-Send%20an%20Email-informational?style=flat&logo=gmail&logoColor=white&color=D14836)
 
 ## 🚀 Languages and Tools:
 
@@ -27,8 +25,8 @@
 ## 🔗 Connect with me:
 
 <p align="left">
-  <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ilham Kusmayadi" height="30" width="40" /></a>
-  <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilham_kusmayadi" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/ilham.kusmayadi.5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ilham Kusmayadi" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_ollham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilham_kusmayadi" height="30" width="40" /></a>
 </p>
 
 ## 🚀 Languages & Frameworks Showcase
@@ -37,11 +35,9 @@
   <!-- Tambahkan gambar gerak dari masing-masing bahasa di sini -->
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="HTML" width="45px" />
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="CSS" width="45px" />
-  <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" alt="PHP" width="45px" />
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="JavaScript" width="45px" />
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="Python" width="45px" />
   <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" alt="Golang" width="45px" />
-  <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" alt="React" width="45px" />
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="Node.js" width="45px" />
 </p>
 
