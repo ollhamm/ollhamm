@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+frontend+developer+with+passion+for+coding)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W/giphy.gif" width=100% height="300px" align="center"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
 
 ## 📫 How to reach me:
 
