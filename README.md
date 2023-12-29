@@ -40,9 +40,9 @@
 ## 🛠️ Software & Tools:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VSCode-14354C.svg?logo=visual-studio-code&logoColor=white&color=007ACC" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Postman-14354C.svg?logo=postman&logoColor=orange&color=FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/Google%20Colab-14354C.svg?logo=google-colab&logoColor=white&color=F9AB00" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/VSCode-14354C.svg?logo=visual-studio-code&logoColor=white&color=007ACC" alt="VSCode" height="30" />
+  <img src="https://img.shields.io/badge/Postman-14354C.svg?logo=postman&logoColor=orange&color=FF6C37" alt="Postman" height="30" />
+  <img src="https://img.shields.io/badge/Google%20Colab-14354C.svg?logo=google-colab&logoColor=white&color=F9AB00" alt="Google Colab" height="30" />
 </p>
 
 
