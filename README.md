@@ -6,7 +6,7 @@
 
 ## 📫 How to reach me:
 
-Email: ilhamkusmayadi65@gmail.com ![Email Icon](https://img.shields.io/badge/-Send%20an%20Email-informational?style=flat&logo=gmail&logoColor=white&color=D14836)
+![Email](https://img.shields.io/badge/Email-ilhamkusmayadi65@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836): ilhamkusmayadi65@gmail.com
 
 ## 🚀 Languages and Tools:
 
