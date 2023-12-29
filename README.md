@@ -37,14 +37,4 @@
   <a href="https://www.instagram.com/_ollham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilham_kusmayadi" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <!-- Tambahkan gambar gerak dari masing-masing bahasa di sini -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="HTML" width="45px" />
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="CSS" width="45px" />
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="JavaScript" width="45px" />
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="Python" width="45px" />
-  <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" alt="Golang" width="45px" />
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" alt="Node.js" width="45px" />
-</p>
-
 </details>
