@@ -8,6 +8,13 @@
 
 ![Email](https://img.shields.io/badge/Email-ilhamkusmayadi65@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836)
 
+## 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://www.facebook.com/ilham.kusmayadi.5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ilham Kusmayadi" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_ollham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilham_kusmayadi" height="30" width="40" /></a>
+</p>
+
 ## 🚀 Languages and Frameworks:
 
 <p align="left">
@@ -30,11 +37,13 @@
   <img src="https://img.shields.io/badge/CodeIgniter-14354C.svg?logo=codeigniter&logoColor=black&color=red" alt="CodeIgniter" />
 </p>
 
-## 🔗 Connect with me:
+## 🛠️ Software & Tools:
 
 <p align="left">
-  <a href="https://www.facebook.com/ilham.kusmayadi.5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ilham Kusmayadi" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_ollham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilham_kusmayadi" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/VSCode-14354C.svg?logo=visual-studio-code&logoColor=white&color=007ACC" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Postman-14354C.svg?logo=postman&logoColor=orange&color=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Google%20Colab-14354C.svg?logo=google-colab&logoColor=white&color=F9AB00" alt="Google Colab" />
 </p>
+
 
 </details>
