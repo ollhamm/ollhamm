@@ -8,7 +8,7 @@
 
 ![Email](https://img.shields.io/badge/Email-ilhamkusmayadi65@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=D14836)
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Frameworks:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange" alt="HTML" />
@@ -17,9 +17,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow" alt="Python" />
   <img src="https://img.shields.io/badge/Golang-14354C.svg?logo=go&logoColor=white&color=blue" alt="Golang" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/React-14354C.svg?logo=react&logoColor=black&color=skyblue" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-14354C.svg?logo=node.js&logoColor=black&color=darkgreen" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-14354C.svg?logo=next.js&logoColor=black&color=purbleblue" alt="Next.js" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=purple" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/CodeIgniter-14354C.svg?logo=codeigniter&logoColor=black&color=red" alt="CodeIgniter" />
 </p>
 
 ## 🔗 Connect with me:
@@ -28,8 +36,6 @@
   <a href="https://www.facebook.com/ilham.kusmayadi.5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ilham Kusmayadi" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_ollham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilham_kusmayadi" height="30" width="40" /></a>
 </p>
-
-## 🚀 Languages & Frameworks Showcase
 
 <p align="left">
   <!-- Tambahkan gambar gerak dari masing-masing bahasa di sini -->
