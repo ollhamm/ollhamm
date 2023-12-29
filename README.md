@@ -39,10 +39,11 @@
 
 ## 🛠️ Software & Tools:
 
-   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-14354C.svg?logo=visual-studio-code&logoColor=white&color=007ACC" alt="VSCode" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-14354C.svg?logo=postman&logoColor=orange&color=FF6C37" alt="Postman" width="40" height="40"/> </a> 
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Colab-14354C.svg?logo=google-colab&logoColor=white&color=F9AB00" alt="Google Colab" width="40" height="40"/> </a>
-
+<p align="left">
+  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/-14354C.svg?logo=visual-studio-code&logoColor=white" alt="VSCode" height="30" /></a>
+   <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/-14354C.svg?logo=postman&logoColor=orange" alt="Postman" height="30" /></a>
+   <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/-14354C.svg?logo=google-colab&logoColor=white" alt="Google Colab" height="30" /></a>
+</p>
 
 
 </details>
