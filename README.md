@@ -40,8 +40,9 @@
 ## 🛠️ Software & Tools:
 
 <p align="left">
-  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/VSCode-14354C.svg?logo=visual-studio-code&logoColor=white" alt="VSCode" height="30" /></a>
-  <a href="https://www.instagram.com/_ollham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilham_kusmayadi" height="30" width="40" /></a>
+  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/-14354C.svg?logo=visual-studio-code&logoColor=white" alt="VSCode" height="30" /></a>
+   <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/-14354C.svg?logo=postman&logoColor=orange" alt="Postman" height="30" /></a>
+   <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/-14354C.svg?logo=google-colab&logoColor=white" alt="Google Colab" height="30" /></a>
 </p>
 
 
